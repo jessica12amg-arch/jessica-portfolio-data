@@ -16,7 +16,9 @@ orienter la stratégie d'expansion.
 - Identification des modèles, marques et couleurs les plus vendus
 - Analyse des zones géographiques les plus performantes
 - Suivi du chiffre d'affaires et du prix moyen par période
-<img width="1920" height="1080" alt="Données commerciales d&#39;une concession automobile" src="https://github.com/user-attachments/assets/8d76fb22-14a1-479b-9a42-927cbe5aa9ff" />
+
+<img width="1920" height="1080" alt="Données commerciales d&#39;une concession automobile" src="https://github.com/user-attachments/assets/1a67ab90-30eb-4660-b224-64f73b368f00" />
+<img width="1920" height="1080" alt="Données commerciales d&#39;une concession automobile" src="https://github.com/user-attachments/assets/1a67ab90-30eb-4660-b224-64f73b368f00" />
 
 
 ---
@@ -34,7 +36,8 @@ mieux gérer son budget.
 - Visualisation jour par jour des dépenses du mois de novembre
 - Répartition détaillée par catégorie et sous-catégorie
 
-<img width="1920" height="1080" alt="Données personnelles d&#39;une gestion de compte courant" src="https://github.com/user-attachments/assets/60237ce8-3a2a-4061-b138-99da128b2f63" />
+<img width="1920" height="1080" alt="Données personnelles d&#39;une gestion de compte courant" src="https://github.com/user-attachments/assets/2aa53765-ef14-48da-a1e3-984eaca384db" />
+<img width="1920" height="1080" alt="Données personnelles d&#39;une gestion de compte courant" src="https://github.com/user-attachments/assets/2aa53765-ef14-48da-a1e3-984eaca384db" />
 
 ---
 
