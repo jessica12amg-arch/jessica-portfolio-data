@@ -18,7 +18,7 @@ orienter la stratégie d'expansion.
 - Suivi du chiffre d'affaires et du prix moyen par période
 
 <img width="1920" height="1080" alt="Données commerciales d&#39;une concession automobile" src="https://github.com/user-attachments/assets/1a67ab90-30eb-4660-b224-64f73b368f00" />
-<img width="1920" height="1080" alt="Données commerciales d&#39;une concession automobile" src="https://github.com/user-attachments/assets/1a67ab90-30eb-4660-b224-64f73b368f00" />
+
 
 
 ---
@@ -37,7 +37,7 @@ mieux gérer son budget.
 - Répartition détaillée par catégorie et sous-catégorie
 
 <img width="1920" height="1080" alt="Données personnelles d&#39;une gestion de compte courant" src="https://github.com/user-attachments/assets/2aa53765-ef14-48da-a1e3-984eaca384db" />
-<img width="1920" height="1080" alt="Données personnelles d&#39;une gestion de compte courant" src="https://github.com/user-attachments/assets/2aa53765-ef14-48da-a1e3-984eaca384db" />
+
 
 ---
 
