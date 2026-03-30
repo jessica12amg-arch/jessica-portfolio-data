@@ -24,5 +24,5 @@ l'ensemble de la chaîne analytique : collecte, nettoyage, analyse et visualisat
  Machine Learning | Python | Modèles prédictifs | A compléter
 | Tableaux de bord | Power BI | Dashboards interactifs | Visualisation | Tableau | Dataviz |
 
-## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](LIEN_LINKEDIN)
+## Me contacter
+https://www.linkedin.com/in/jessica-amegee-10253b218/
